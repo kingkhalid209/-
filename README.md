@@ -1,4 +1,4 @@
-# اكتشف قدرتك الشرائية
+# حاسبة الميزانية الذكية - StarsWorld0
 
 A Pen created on CodePen.
 
